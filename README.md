@@ -1,4 +1,6 @@
-# landing_pages
+<div align = "center">
+  <h1>Landing Pages</h1>
+</div>
 
 ## 1. dio_bootstrap | lesson on Dio.
 In this lesson, I had my first contact with the <strong>Bootstrap</strong> web framework, with open source code for developing interface and front-end components for websites and web applications using <strong>HTML</strong>, <strong>CSS</strong> and <strong>JavaScript</strong>, based on design models for typography, improving the user experience on a friendly and responsive website.
